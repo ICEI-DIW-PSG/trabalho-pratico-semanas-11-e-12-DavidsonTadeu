@@ -1,0 +1,34 @@
+{
+  "produtos": [
+    {
+      "nome": "Smartphone X",
+      "preco": 2600,
+      "descricao": "Modelo avançado com câmera de 108MP.",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nome": "Notebook Z",
+      "preco": 4800,
+      "descricao": "Processador i7, 16GB RAM, ideal para desenvolvimento."
+    },
+    {
+      "id": "3",
+      "nome": "Smartwatch V",
+      "preco": 950.5,
+      "descricao": "Monitor de saúde completo e bateria de longa duração."
+    },
+    {
+      "nome": "iphone12",
+      "preco": 1350,
+      "descricao": "dsdsdsd",
+      "id": "13c5"
+    },
+    {
+      "id": "d8a2",
+      "nome": "d",
+      "preco": 1,
+      "descricao": "d"
+    }
+  ]
+}
